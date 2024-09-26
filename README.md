@@ -2,8 +2,8 @@
 ---
 # Set env1
 ```bash
-export ENV=dev <!--{.center}-->
-export REGION=us-east-2 <!--{.center}-->
+export ENV=dev
+export REGION=us-east-2
 ```
 
 ---
